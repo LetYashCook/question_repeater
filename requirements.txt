@@ -1,8 +1,0 @@
-streamlit
-openai
-sentence-transformers
-easyocr
-pymupdf
-numpy
-Pillow
-torch
